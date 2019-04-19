@@ -3,3 +3,4 @@ spring:
     username: xiaowang
     #{cipher}+密文的形式，如果是.properties文件，单引号去掉
     password: '{cipher}689e831364978c4448ba2549724f4051b277e29da0638db291d219e737fa2d84'
+    test: hello
